@@ -4,5 +4,5 @@ function double(num)
 }
 
 
-var x = 6;
+var x = 7;
 double(x);
